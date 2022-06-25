@@ -9,7 +9,7 @@
 
 ## Overview
 
-Train Positions is an application using the Washington Metropolitan Area Transit Authority API. Users can expect to be able to: 
+Train Positions is an application using the [Washington Metropolitan Area Transit Authority API](https://developer.wmata.com/docs/services/). Users can expect to be able to: 
     -See all of the trains currently available. 
     -See the page automatically update along with the trains' positions. 
     -Filter the by the train line color.
@@ -20,7 +20,6 @@ Train Positions is an application using the Washington Metropolitan Area Transit
     -Visually distinguish between different service types.
 
 
- 
 ## Installation and Viewing 
 
 To view this application on your local machine:
